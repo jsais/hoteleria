@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("***** Bic Console I/O *****");
+            Console.WriteLine("***** B24ic Console I/O *****");
             GetUserData();
             Console.ReadLine();
         }
