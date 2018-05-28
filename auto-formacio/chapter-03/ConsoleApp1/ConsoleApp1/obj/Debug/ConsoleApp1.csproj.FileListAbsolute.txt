@@ -1,0 +1,7 @@
+C:\NEW\projectes-C-sharp\auto-formacio\chapter-03\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\NEW\projectes-C-sharp\auto-formacio\chapter-03\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\NEW\projectes-C-sharp\auto-formacio\chapter-03\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\NEW\projectes-C-sharp\auto-formacio\chapter-03\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\NEW\projectes-C-sharp\auto-formacio\chapter-03\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\NEW\projectes-C-sharp\auto-formacio\chapter-03\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\NEW\projectes-C-sharp\auto-formacio\chapter-03\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

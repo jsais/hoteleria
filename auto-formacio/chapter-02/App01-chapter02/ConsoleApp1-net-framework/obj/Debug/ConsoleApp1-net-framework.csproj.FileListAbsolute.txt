@@ -1,0 +1,7 @@
+C:\NEW\projectes-C-sharp\auto-formacio\chapter-02\App01-chapter02\ConsoleApp1-net-framework\obj\Debug\ConsoleApp1-net-framework.csproj.CoreCompileInputs.cache
+C:\NEW\projectes-C-sharp\auto-formacio\chapter-02\App01-chapter02\ConsoleApp1-net-framework\bin\Debug\ConsoleApp1-net-framework.exe.config
+C:\NEW\projectes-C-sharp\auto-formacio\chapter-02\App01-chapter02\ConsoleApp1-net-framework\bin\Debug\ConsoleApp1-net-framework.exe
+C:\NEW\projectes-C-sharp\auto-formacio\chapter-02\App01-chapter02\ConsoleApp1-net-framework\bin\Debug\ConsoleApp1-net-framework.pdb
+C:\NEW\projectes-C-sharp\auto-formacio\chapter-02\App01-chapter02\ConsoleApp1-net-framework\obj\Debug\ConsoleApp1-net-framework.exe
+C:\NEW\projectes-C-sharp\auto-formacio\chapter-02\App01-chapter02\ConsoleApp1-net-framework\obj\Debug\ConsoleApp1-net-framework.pdb
+C:\NEW\projectes-C-sharp\auto-formacio\chapter-02\App01-chapter02\ConsoleApp1-net-framework\obj\Debug\ConsoleApp1-net-framework.csprojAssemblyReference.cache
